@@ -29,12 +29,12 @@
 
 [<img align="left" alt="DavidHovsepian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DavidHovsepian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DavidHovsepian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DavidHovsepian | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg(https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg)" />][linkedin]
 [<img align="left" alt="DavidHovsepian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/thecultmachine
 [youtube]: https://www.youtube.com/channel/UCCcJqfdg_vQNCKjI6l8XpSA
-[instagram]: https://www.instagram.com/davidjhovsepian/
+[instagram]: https://www.instagram.com/davidhovsepian/
 [Xing]: https://www.xing.com/profile/david_hovsepian/cv
 
 <!--
