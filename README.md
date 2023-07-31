@@ -5,8 +5,8 @@
   - [Recruiting Appplication with Machine Learning to Rival Indeed, Ziprecruiter, Monster](https://github.com/davidjhovsepian/Applications#readme)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Pansophical Data Solutions: E2EConnect.net Application](https://e2econnect.net/)
-- <b>Frontend Learnen Modules</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Pet Projects</b>
+  - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
