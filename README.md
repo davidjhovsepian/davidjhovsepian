@@ -8,7 +8,7 @@
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Pansophical Data Solutions: E2EConnect.net Application](https://e2econnect.net/)
-- <b>Pet Projects</b>
+- <b>Frontend Pet Projoects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
