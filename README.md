@@ -4,6 +4,7 @@
 - <b>Application Development Projects</b>
   - [Recruitment Application: Using A.I. to Rival Indeed, Ziprecruiter, Monster](https://github.com/davidjhovsepian/Applications#readme)
   - [Eco Friendly Solutions: Buidling a Moral Future](https://github.com/davidjhovsepian/Eco-Friendly-App#readme)
+  - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Pansophical Data Solutions: E2EConnect.net Application](https://e2econnect.net/)
