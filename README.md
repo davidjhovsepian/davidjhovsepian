@@ -1,10 +1,8 @@
 <h1>Hello, I'm David! <br/><a href="https://agile.profi">Programmer</a>, <a href="https://www.linkedin.com/in/davidjhovsepian/">Project manager, Digitalization Professional</a>, <a href="https://www.youtube.com/channel/UCCcJqfdg_vQNCKjI6l8XpSA">YouTuber</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
-<strong><a href="https://agileprofi.de>2020</a></strong>
 
-- <b> Backend Entwicklung mit ABAP & MySQL (AlgoExpert)</b>
-  - [Meine Praxis mit ABAP](https://agileprofi.de/programmieren-eine-tabelle-mit-abap/))
+- <b>Projects</b>
+  - [Meine Praxis mit ABAP](https://agileprofi.de/e2e-connect-full-spectrum-compatability-matrix-application/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Pansophical Data Solutions: E2EConnect.net Application](https://e2econnect.net/)
 - <b>Frontend Learnen Modules</b>
