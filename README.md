@@ -2,7 +2,7 @@
 
 
 - <b>Application Development Projects</b>
-  - [Recruitment Application: Using A.I. to Rival Indeed, Ziprecruiter, Monster](https://github.com/davidjhovsepian/Applications#readme)
+  - [Recruitment Application: Using A.I. to Rival Indeed, Ziprecruiter, Monster](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Eco Friendly Solutions: Buidling a Moral Future](https://github.com/davidjhovsepian/Eco-Friendly-App#readme)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
 
