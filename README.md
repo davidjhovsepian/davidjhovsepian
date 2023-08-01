@@ -7,10 +7,11 @@
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
   - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
 
-- <b>Digitalization Projects</b>
+**Digitalization Projects**
   - [California Coastal Fishing](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Canadian Agriculture Company](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Chilean Shoe Retailer](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+
   
 - <b>Frontend Pet Projoects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
