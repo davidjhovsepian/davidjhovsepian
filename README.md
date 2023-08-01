@@ -9,8 +9,8 @@
 
 - <b>Digital Transformation Projects</b>
   - [California Coastal Fishing](https://github.com/davidjhovsepian/Canadian-Fishing-Company/tree/main)
-  - [Canadian Agriculture Company](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
-  - [Chilean Shoe Retailer](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  - [East Coast Paper Company](https://github.com/davidjhovsepian/Paper-Company#readme)
+  - [Charter School CRM](https://github.com/davidjhovsepian/University-CRM#readme)
 
   
 - <b>Frontend Pet Projoects</b>
