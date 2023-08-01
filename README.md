@@ -5,9 +5,13 @@
   - [Recruitment Application](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-App#readme)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
+  - [Time Management Tool: Web Application](https://github.com/davidjhovsepian/Time-Management#readme)
 
 - <b>Digitalization Projects</b>
-  - 
+  -[California Coastal Fishing](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  -[Canadian Agriculture Company](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  -[Chilean Shoe Retailer](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  
 - <b>Frontend Pet Projoects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
   
@@ -29,6 +33,8 @@
 [<img align="left" alt="DavidHovsepian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DavidHovsepian | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
 [<img align="left" alt="DavidHovsepian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+- 📫 How to reach me: ...Phone: +49 1520 4195004
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/channel/UCCcJqfdg_vQNCKjI6l8XpSA
