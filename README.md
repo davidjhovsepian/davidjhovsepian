@@ -2,7 +2,7 @@
 
 
 - <b>Application/Software Development Projects</b>
-  - [Recruitment Application](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  - [Recruitment Application](https://github.com/davidjhovsepian/B2B-E2Econnect#readme)
   - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-App#readme)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
   - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
