@@ -5,12 +5,12 @@
   - [Recruitment Application](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-App#readme)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
-  - [Time Management Tool: Web Application](https://github.com/davidjhovsepian/Time-Management#readme)
+  - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
 
 - <b>Digitalization Projects</b>
-  -[California Coastal Fishing](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
-  -[Canadian Agriculture Company](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
-  -[Chilean Shoe Retailer](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  - [California Coastal Fishing](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  - [Canadian Agriculture Company](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
+  - [Chilean Shoe Retailer](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   
 - <b>Frontend Pet Projoects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
