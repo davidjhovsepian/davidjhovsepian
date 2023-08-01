@@ -7,7 +7,7 @@
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
   - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
 
-**Digital Transformation Projects**
+- <b>Digital Transformation Projects</b>
   - [California Coastal Fishing](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Canadian Agriculture Company](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
   - [Chilean Shoe Retailer](https://github.com/davidjhovsepian/Recruitement-Application/blob/main/README.md)
