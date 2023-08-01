@@ -13,7 +13,7 @@
   - [Charter School CRM](https://github.com/davidjhovsepian/University-CRM#readme)
 
   
-- <b>Frontend Pet Projoects</b>
+- <b>Frontend Pet Projects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
   
 - <b>Free Tools (.NET Desktop Applications)</b>
