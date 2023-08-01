@@ -3,7 +3,7 @@
 
 - <b>Application/Software Development Projects</b>
   - [Recruitment Application](https://github.com/davidjhovsepian/B2B-E2Econnect#readme)
-  - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-App#readme)
+  - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-Apps-in-SD/blob/main/README.md)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Manager-Scrum-Agile#readme)
   - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
 
