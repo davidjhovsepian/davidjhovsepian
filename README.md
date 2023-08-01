@@ -16,7 +16,7 @@
 - <b>Frontend Pet Projects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
   
-- <b>Free Tools (.NET Desktop Applications)</b>
+- <b>Free Tools </b>
   - [Go-No-Go Matrix (German) ](https://agileprofi.de/go-no-go-checkliste-vorlage-eine-entscheidende-hilfe-fuer-erfolgreiche-projekte/)
   
 
@@ -25,7 +25,7 @@
 
 - [Which ERP system is the Best (German)](https://www.youtube.com/watch?v=lTACicxlysc))
 - [Netweaver Applications Systems Architecture (German)](https://youtu.be/u-vE4cdtcy0)
-- [Implementing an SAP "Go-Live" Event] (https://www.youtube.com/watch?v=ncMqgzmbdzY&t=153s)
+- [Implementing an SAP "Go-Live" Event](https://www.youtube.com/watch?v=ncMqgzmbdzY&t=153s)
 
 
 <h2> 🤳 Connect with me:</h2>
