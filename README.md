@@ -19,7 +19,7 @@
 - <b>Free Tools </b>
   - [Go-No-Go Matrix (German) ](https://agileprofi.de/go-no-go-checkliste-vorlage-eine-entscheidende-hilfe-fuer-erfolgreiche-projekte/)
   - [Customer Journey Map (German) ](https://agileprofi.de/customer-journey-map-vorlage/)
-  - [Sprint Planning Tempalte (German) ](https://agileprofi.de/meistere-deine-projekte-mit-der-unschlagbaren-sprint-planung-vorlage/)
+  - [Sprint Planning Template (German) ](https://agileprofi.de/meistere-deine-projekte-mit-der-unschlagbaren-sprint-planung-vorlage/)
   
 
 
