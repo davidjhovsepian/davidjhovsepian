@@ -2,7 +2,7 @@
 
 
 - <b>Application/Software Development Projects</b>
-  - [Recruitment Software](https://github.com/davidjhovsepian/B2B-E2Econnect#readme)
+  - [Human Resrouces System](https://github.com/davidjhovsepian/B2B-E2Econnect#readme)
   - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-Apps-in-SD/blob/main/README.md)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Test-Manager/tree/main#readme)
   - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
