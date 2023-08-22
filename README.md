@@ -1,13 +1,14 @@
 <h1>Hello, I'm David! <br/><a href="https://agile.profi">Programmer</a>, <a href="https://www.linkedin.com/in/davidjhovsepian/">Project manager, Digitalization Professional</a>, <a href="https://www.youtube.com/channel/UCCcJqfdg_vQNCKjI6l8XpSA">YouTuber</a></h1>
 
 
-- <b>Application/Software Development Projects</b>
+- <b>Short Projects</b>
   - [Recruitment Application](https://github.com/davidjhovsepian/B2B-E2Econnect#readme)
   - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-Apps-in-SD/blob/main/README.md)
   - [QA Manager](https://github.com/davidjhovsepian/QA-Test-Manager/tree/main#readme)
   - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
+  - [Telecommunications AHT Reduction](https://github.com/davidjhovsepian/Telecommunications)
 
-- <b>Digital Transformation Projects</b>
+- <b>Long Projects</b>
   - [California Coastal Fishing](https://github.com/davidjhovsepian/Canadian-Fishing-Company/tree/main)
   - [East Coast Paper Company](https://github.com/davidjhovsepian/Paper-Company#readme)
   - [Charter School CRM](https://github.com/davidjhovsepian/University-CRM#readme)
@@ -15,6 +16,7 @@
   
 - <b>Frontend Pet Projects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
+  - [CSS Design](https://github.com/davidjhovsepian/a-waving-css-penguin)
   
 - <b>Free Tools </b>
   - [Go-No-Go Matrix (German) ](https://agileprofi.de/go-no-go-checkliste-vorlage-eine-entscheidende-hilfe-fuer-erfolgreiche-projekte/)
@@ -24,7 +26,7 @@
 
 
 <h2>📺 Popular YouTube Videos</h2>
-
+- [Lego Agile](https://www.youtube.com/watch?v=P9ifuVwTDTk&t=47s)
 - [Which ERP system is the Best (German)](https://www.youtube.com/watch?v=lTACicxlysc))
 - [Netweaver Applications Systems Architecture (German)](https://youtu.be/u-vE4cdtcy0)
 - [Implementing an SAP "Go-Live" Event](https://www.youtube.com/watch?v=ncMqgzmbdzY&t=153s)
