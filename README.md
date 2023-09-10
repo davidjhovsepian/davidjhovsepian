@@ -17,6 +17,7 @@
 - <b>Frontend Pet Projects</b>
   - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
   - [CSS Design](https://github.com/davidjhovsepian/a-waving-css-penguin)
+  - [Interactive Tic-Tac Toe](https://github.com/davidjhovsepian/Tic-Tac-Toe)
   
 - <b>Free Tools </b>
   - [Go-No-Go Matrix (German) ](https://agileprofi.de/go-no-go-checkliste-vorlage-eine-entscheidende-hilfe-fuer-erfolgreiche-projekte/)
