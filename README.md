@@ -19,6 +19,7 @@
   - [CSS Design](https://github.com/davidjhovsepian/a-waving-css-penguin)
   - [Interactive Tic-Tac Toe](https://github.com/davidjhovsepian/Tic-Tac-Toe)
   - [Expanding Cards](https://github.com/davidjhovsepian/expanding_cards)
+  - [Snake Game](https://github.com/davidjhovsepian/Snake)
   
 - <b>Free Tools </b>
   - [Go-No-Go Matrix (German) ](https://agileprofi.de/go-no-go-checkliste-vorlage-eine-entscheidende-hilfe-fuer-erfolgreiche-projekte/)
