@@ -15,10 +15,9 @@
 
   
 - <b>Frontend Pet Projects</b>
-  - [Dad Jokes Web App](https://github.com/davidjhovsepian/dad-jokes-generator)
-  - [CSS Design](https://github.com/davidjhovsepian/a-waving-css-penguin)
-  - [Interactive Tic-Tac Toe](https://github.com/davidjhovsepian/Tic-Tac-Toe)
-  - [Expanding Cards](https://github.com/davidjhovsepian/expanding_cards)
+  - [CSS Design Tools](https://github.com/davidjhovsepian/a-waving-css-penguin)
+  - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
+  - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
   - [Snake Game](https://github.com/davidjhovsepian/Snake)
   
 - <b>Free Tools </b>
@@ -29,9 +28,6 @@
 
 ## 📺 Popular YouTube Videos
 - [Lego Agile](https://www.youtube.com/watch?v=P9ifuVwTDTk&t=47s)
-- [Which ERP system is the Best (German)](https://www.youtube.com/watch?v=lTACicxlysc)
-- [Netweaver Applications Systems Architecture (German)](https://youtu.be/u-vE4cdtcy0)
-- [Implementing an SAP "Go-Live" Event](https://www.youtube.com/watch?v=ncMqgzmbdzY&t=153s)
 
 
 
