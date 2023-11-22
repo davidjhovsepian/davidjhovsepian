@@ -9,12 +9,12 @@
   - [Telecommunications AHT Reduction](https://github.com/davidjhovsepian/Telecommunications)
 
 - <b>Long Projects</b>
-  - [California Coastal Fishing](https://github.com/davidjhovsepian/Canadian-Fishing-Company/tree/main)
+  - [Coastl Fishing Company ERP](https://github.com/davidjhovsepian/Canadian-Fishing-Company/tree/main)
   - [East Coast Paper Company](https://github.com/davidjhovsepian/Paper-Company#readme)
   - [Charter School CRM](https://github.com/davidjhovsepian/University-CRM#readme)
 
   
-- <b>Frontend Pet Projects</b>
+- <b>Pet Projects</b>
   - [CSS Design Tools](https://github.com/davidjhovsepian/a-waving-css-penguin)
   - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
   - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
