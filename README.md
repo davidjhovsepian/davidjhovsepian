@@ -14,7 +14,9 @@
   - [Charter School CRM](https://github.com/davidjhovsepian/University-CRM#readme)
 
   
-- <b>Pet Projects</b>
+- <b>Dev Projects</b>
+  - [Odoo 17 Reports](https://github.com/davidjhovsepian/Odoo_17_Reports)
+  - [Content Generator in Tensorflow](https://github.com/davidjhovsepian/Poetry_AI)
   - [CSS Design Tools](https://github.com/davidjhovsepian/a-waving-css-penguin)
   - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
   - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
