@@ -1,19 +1,6 @@
 <h1>Hello, I'm David! <br/><a href="https://agile.profi">Programmer</a>, <a href="https://www.linkedin.com/in/davidjhovsepian/">Project manager, Digitalization Professional</a>
 
 
-- <b>Short Projects</b>
-  - [Recruitment Application](https://github.com/davidjhovsepian/B2B-E2Econnect#readme)
-  - [Eco Friendly Solutions](https://github.com/davidjhovsepian/Eco-Friendly-Apps-in-SD/blob/main/README.md)
-  - [QA Manager](https://github.com/davidjhovsepian/QA-Test-Manager/tree/main#readme)
-  - [Time Management Tool](https://github.com/davidjhovsepian/Time-Management#readme)
-  - [Telecommunications AHT Reduction](https://github.com/davidjhovsepian/Telecommunications)
-
-- <b>Long Projects</b>
-  - [Coastl Fishing Company ERP](https://github.com/davidjhovsepian/Canadian-Fishing-Company/tree/main)
-  - [East Coast Paper Company](https://github.com/davidjhovsepian/Paper-Company#readme)
-  - [Charter School CRM](https://github.com/davidjhovsepian/University-CRM#readme)
-
-  
 - <b>Dev Projects</b>
   - [Odoo 17 Reports](https://github.com/davidjhovsepian/Odoo_17_Reports)
   - [Content Generator in Tensorflow](https://github.com/davidjhovsepian/Poetry_AI-2)
