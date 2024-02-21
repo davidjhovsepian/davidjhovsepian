@@ -15,9 +15,6 @@
   - [Sprint Planning Template (German) ](https://agileprofi.de/meistere-deine-projekte-mit-der-unschlagbaren-sprint-planung-vorlage/)
   
 
-## 📺 Popular YouTube Videos
-- [Lego Agile](https://www.youtube.com/watch?v=P9ifuVwTDTk&t=47s)
-
 
 
 
