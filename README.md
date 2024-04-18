@@ -1,12 +1,12 @@
 <h1>Hello, I'm David! <br/><a href="https://agile.profi">Programmer</a>, <a href="https://www.linkedin.com/in/davidjhovsepian/">Project manager, Digitalization Professional</a>
 
-  - <b>Projects</b>
-   - [CRM for University](https://github.com/davidjhovsepian/University-CRM/blob)
-   - [Content Generator in Tensorflow](https://github.com/davidjhovsepian/Poetry_AI-2)
-   - [CSS Design Tools](https://github.com/davidjhovsepian/a-waving-css-penguin)
-   - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
-   - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
-   - [Snake Game](https://github.com/davidjhovsepian/Snake)
+- <b>Projects</b>
+  - [CRM for University](https://github.com/davidjhovsepian/University-CRM/blob)
+  - [Content Generator in Tensorflow](https://github.com/davidjhovsepian/Poetry_AI-2)
+  - [CSS Design Tools](https://github.com/davidjhovsepian/a-waving-css-penguin)
+  - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
+  - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
+  - [Snake Game](https://github.com/davidjhovsepian/Snake)
 
 - <b>Dev Projects</b>
   - [Odoo 17 Reports](https://github.com/davidjhovsepian/Odoo_17_Reports)
@@ -15,6 +15,7 @@
   - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
   - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
   - [Snake Game](https://github.com/davidjhovsepian/Snake)
+
   
 - <b>Free Tools </b>
   - [Go-No-Go Matrix (German) ](https://agileprofi.de/go-no-go-checkliste-vorlage-eine-entscheidende-hilfe-fuer-erfolgreiche-projekte/)
