@@ -3,7 +3,7 @@
 - <b>Projects</b>
   - [CRM for University](https://github.com/davidjhovsepian/University-CRM/blob)
   - [Migration to SAP S/4 Hana ](https://github.com/davidjhovsepian/Paper-Company)
-  - [Telecommunications company AHT reduction ]([https://github.com/davidjhovsepian/Telecommunications))
+  - [Telecommunications company AHT reduction ](https://github.com/davidjhovsepian/Telecommunications)
 
 
 - <b>Dev Projects</b>
