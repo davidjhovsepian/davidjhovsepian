@@ -4,6 +4,7 @@
   - [CRM for University](https://github.com/davidjhovsepian/University-CRM/blob)
   - [Migration to SAP S/4 Hana ](https://github.com/davidjhovsepian/Paper-Company)
   - [Telecommunications company AHT reduction ](https://github.com/davidjhovsepian/Telecommunications)
+  - [Fintech Android App ](https://github.com/davidjhovsepian/Fintech-App)
 
 
 - <b>Dev Projects</b>
