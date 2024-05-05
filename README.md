@@ -1,7 +1,7 @@
 <h1>Hello, I'm David! <br/><a href="https://agile.profi">Programmer</a>, <a href="https://www.linkedin.com/in/davidjhovsepian/">Project manager, Digitalization Professional</a>
 
 - <b>Projects</b>
-  - [CRM for University](https://github.com/davidjhovsepian/University-CRM/blob)
+  - [CRM for University](https://github.com/davidjhovsepian/University-CRM)
   - [Migration to SAP S/4 Hana ](https://github.com/davidjhovsepian/Paper-Company)
   - [Telecommunications company AHT reduction ](https://github.com/davidjhovsepian/Telecommunications)
   - [Fintech Android App ](https://github.com/davidjhovsepian/Fintech-App)
