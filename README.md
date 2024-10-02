@@ -2,7 +2,8 @@
 
 - <b>Projects</b>
   - [CRM for University](https://github.com/davidjhovsepian/University-CRM)
-  - [Migration to SAP S/4 Hana ](https://github.com/davidjhovsepian/Paper-Company)
+  - [ SAP S/4 Hana Brownfield Transformation](https://github.com/davidjhovsepian/Seafood_project)  
+  - [Junior SAP PM to SAP S/4 Hana ](https://github.com/davidjhovsepian/Paper-Company)
   - [Telecommunications company AHT reduction ](https://github.com/davidjhovsepian/Telecommunications)
   - [Fintech Android App ](https://github.com/davidjhovsepian/Fintech-App)
 
