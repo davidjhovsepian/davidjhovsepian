@@ -16,6 +16,7 @@
   - [Interactive Frontend Game](https://github.com/davidjhovsepian/Tic-Tac-Toe)
   - [Expanding Cards Animation](https://github.com/davidjhovsepian/expanding_cards)
   - [Snake Game](https://github.com/davidjhovsepian/Snake)
+  - [Python Fun](https://github.com/davidjhovsepian/Python-Fun)
 
   
 - <b>Free Tools </b>
